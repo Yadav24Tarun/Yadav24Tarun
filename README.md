@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Skills
-- Python | C++ | SQL | HTML | CSS   
+- Python | C++ | SQL | HTML | CSS | PHP  
 - MySQL | Git | VS Code  
 
 ---
